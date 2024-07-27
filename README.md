@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Intelligentladka
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ambedkarnagar 
+- 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
